@@ -1,7 +1,7 @@
-f816c9bbf66b46ffd0308bf2681aa25f *DESCRIPTION
+c5a1e02fd5686384aeda8b27ddd1d98d *DESCRIPTION
 79934695edea45d64af45c4214082b94 *NAMESPACE
 aef9b8857eae8db3693a0c22a184542f *R/attach_and_with.R
-9827541ae40b4f2f50f2e4d8ba3523a5 *R/dplyr_methods.R
+61f9d63a559e27b6eb7afb4dad053fd0 *R/dplyr_methods.R
 af78e333fdb1be38aa5e5a5ddcaa8564 *R/ggplot2_methods.R
 b375ac5586e9a814dc9e6d7f6affbd3b *R/utilities.R
 c12c67c0441f0bc95f3c1a60518d6e3a *R/zzz.R
